@@ -5,14 +5,14 @@ body {
      background-color: #FFFFFF;
      margin: 0;
      padding: 0;
-     color: #ADD8E6;
+     color: #458AF0;
 }
 
 a:link {
-     color: #ADD8E6;
+     color: #71BAF0;
 }
 a:visited {
-     color: #ADD8E6;
+     color: #71BAF0;
 }
 a:hover, a:active, a:focus { 
      text-decoration: bold;
